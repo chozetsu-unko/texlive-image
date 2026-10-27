@@ -8,7 +8,7 @@ TeX Live 環境を提供する コンテナイメージを管理するリポジ�
 本リポジトリのイメージを利用します。
 
 プロジェクトの作成には、以下のテンプレートリポジトリを使用してください。  
-https://github.com/chozetsu-unko/latex-docker-setup
+https://github.com/chozetsu-unko/latex-template
 
 ### イメージの取得
 ```bash
